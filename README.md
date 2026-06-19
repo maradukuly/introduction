@@ -4,12 +4,12 @@
 
 - Why? I stumbled upon economics and actually really love it. I chose statistics because I wanted to keep coding, but not do it for life.
 
-⌨️ Languages: R (intermediate), Java (beginner), Python (beginner).
+⌨️ Languages: R (intermediate), Python (beginner), Java (beginner).
 
-  - Skills: R, R Studio, Data Cleaning, Data Analysis
+  - Skills: R, RStudio, Data Cleaning, Data Analysis
 
-🪲 Interests: Optimization, Monte Carlo, Quantitative Finance
+🪲 Interests: Optimization, Machine Learning, Econometrics
 
-🌱 Projects: Relearning object-oriented programming in Python + R and advanced statistical programming/ modeling. 
+🌱 Projects: Learning object-oriented programming in Python and advanced statistical programming/ modeling. 
 
 📲 LinkedIn: https://www.linkedin.com/in/marakdukuly/ 
